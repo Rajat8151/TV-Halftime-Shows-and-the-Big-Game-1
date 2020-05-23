@@ -11,4 +11,4 @@ The dataset used in this project was scraped and polished from Wikipedia. It is 
 
 I would like to thank [DataCamp](https://www.datacamp.com/) for building such things so that its easier for students just start with projects after a course on Intermediate Python for Data Science. 
 
-I have also written a blog post explaining about this project in detail, which you can find [here](https://devanshu125.blogspot.com/2020/01/tv-halftime-shows-and-big-game.html).
+I have also written a blog post explaining about this project in detail, which you can find [here](https://devanshu125.github.io/superbowl/).
